@@ -1,0 +1,11 @@
+﻿stb1|the matrix|warner bros|2014-04-01|4.00|1:30
+stb1|unbreakable|buena vista|2014-04-03|6.00|2:05
+stb2|the hobbit|warner bros|2014-04-02|8.00|2:45
+stb3|the matrix|warner bros|2014-04-02|4.00|1:05
+stb1|The Hulk|disney|2008-05-13|9.00|2:00
+stb1|Iron Man|disney|2008-04-0|9.00|2:00
+stb1|Thor|disney|2011-05-22|9.00|2:00
+stb1|Captain America|disney|2011-07-22|9.00|2:00
+stb2|Ant-Man|disney|2015-07-15|9.00|2:00
+stb3|Doctor Strange|disney|2016-11-04|9.00|2:00
+stb3|Spider-Man|disney sony|2017-07-07|9.00|2:00
